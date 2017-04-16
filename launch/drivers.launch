@@ -1,0 +1,11 @@
+<launch>
+
+
+    <!-- Launch turtle bot driver -->
+    <include file="$(find turtlebot_bringup)/launch/minimal.launch" />
+
+    <!-- Openni for kinect -->
+    <include file="$(find openni_launch)/launch/openni.launch" />
+
+
+</launch>

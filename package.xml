@@ -1,0 +1,14 @@
+<package>
+
+  <name>turtlebot_record</name>
+  <version>1.0.0</version>
+  <description>
+  This package provides dataset recording abilities.
+  </description>
+  <maintainer email="pgeneva@udel.edu">Patrick Geneva</maintainer>
+  <license>BSD</license>
+  <author>Patrick Geneva</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
